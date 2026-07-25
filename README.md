@@ -188,4 +188,4 @@ JHK:Notify(
 | Content | string | Main message body |
 | Duration | number | Seconds shown |
 | Size | string | `"big"` or `"small"` |
-| Icon | string | Only applies when `Size` is `"small"` — see [jh.org/icons](https://jewhack.org/icons) |
+| Icon | string | Only applies when `Size` is `"small"` — see [jewhack.org/icons](https://jewhack.org/icons) |
