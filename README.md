@@ -2,6 +2,10 @@
     align="center">JewHack Addon Documentation
 </h1>
 
+<p align="center">
+  <img src="images/JewHack.png" alt="Logo" width="300">
+</p>
+
 A quick reference for building addons with the JHK UI library.
 
 > Icons: browse available icons at [jewhack.org/icons](https://jewhack.org/icons)
