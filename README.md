@@ -1,5 +1,5 @@
 <h1>
-    JewHack Addon Documentation
+    align="center">JewHack Addon Documentation
 </h1>
 
 A quick reference for building addons with the JHK UI library.
